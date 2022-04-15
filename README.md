@@ -1,2 +1,3 @@
 # my-website
-website project
+
+This is a really awesome website
